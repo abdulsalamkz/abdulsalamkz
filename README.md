@@ -26,7 +26,9 @@ I am an aspiring **Frontend Developer** with a passion for creating responsive a
 ---
 
 ### 📈 GitHub Stats
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulsalamkz&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulsalamkz&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamkz&layout=compact&theme=radical)
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulsalamkz&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulsalamkz&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamkz&layout=compact&theme=radical)
 
 ---
 
