@@ -14,8 +14,7 @@ I am an aspiring **Frontend Developer** with a passion for creating responsive a
 ### 🛠️ Skills
 - 🌐 **Web Technologies:** HTML, CSS, JavaScript (Basic)
 - 🎨 **Frameworks:** Bootstrap, Tailwind CSS
-- 💻 **Backend:** PHP (Basic)
-- 🔧 **CMS:** WordPress
+- 💻 **Backend:** PHP
 
 ---
 
